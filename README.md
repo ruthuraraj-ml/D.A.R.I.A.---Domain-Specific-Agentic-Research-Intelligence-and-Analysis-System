@@ -181,7 +181,7 @@ Stores:
 
 ## 🧠 Reflection & Critique
 
-![Research Critic](images/research_critic.png)
+![Research Critic](images/research_critic.png.png)
 
 Unlike conventional RAG systems, D.A.R.I.A. evaluates and improves its own research.
 
